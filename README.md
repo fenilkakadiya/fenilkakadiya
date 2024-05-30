@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently learning backend technologies.<br>🌱 I have knowledge of Python Programing and Node.js<br>
+🔭 I’m currently learning backend technologies.<br>🌱 I have knowledge of Python Programing and Node.js <br>
 
 
 ## 🌐 Socials:
